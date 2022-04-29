@@ -46,22 +46,32 @@ After cloning the repository, open the directory Starter Code and run the progra
 
 
 
-***Picture/Visual outputs from localhost:8501***
+***Screenshots from localhost:8501***
 
-**Entering the Input Values**
-
-
-![streamlit1](https://user-images.githubusercontent.com/93211640/166064232-49016da3-77c1-47ad-a14a-09627cfd3d3e.png)
-
-**Add Block button** 
+## **Entering the Input Values**
 
 
-![streamlit2](https://user-images.githubusercontent.com/93211640/166064319-3f54217f-42ba-426f-ada7-775ce4fb7315.png)
 
-**Validation Result** 
+![streamlit1](https://user-images.githubusercontent.com/93211640/166067950-54b67f92-f482-40a0-92e3-f062f5de938a.png)
 
 
-![streamlit3](https://user-images.githubusercontent.com/93211640/166064371-d8fd5b5d-6abb-4d12-afa8-48b447d29f39.png)
+
+## **"Add Block" button** 
+
+
+
+![streamlit2](https://user-images.githubusercontent.com/93211640/166068018-2457d1ce-160c-4d53-b373-f0a99b2d0ea7.png)
+
+
+
+
+## **Validation Result** 
+
+
+
+![streamlit3](https://user-images.githubusercontent.com/93211640/166068075-2caa3122-1713-4b03-9429-6fd3e7994071.png)
+
+
 
 
 
