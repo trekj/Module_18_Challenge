@@ -42,7 +42,7 @@ import pandas as pd
 import hashlib
 
 ***Usage***
-After cloning the repository, open the directory Starter Code and run the program by typing ***streamlit run pychain.py***
+After cloning the repository, open the directory Module_18_Challenge/Starter_Code in Github and run the program by typing ***streamlit run pychain.py*** 
 
 
 
